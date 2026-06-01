@@ -17,7 +17,7 @@ explains how to configure and use this feature.
 
 ## Configure context caching
 
-You configure the context caching feature at the ADK `App` object level,
+You configure the context caching feature at ADK `App` object level,
 which wraps your agent. Use the `ContextCacheConfig` class to configure
 these settings, as shown in the following code sample:
 
